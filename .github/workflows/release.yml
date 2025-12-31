@@ -42,6 +42,7 @@ jobs:
           name: ${{ github.ref_name }}
           files: |
             *.exe
+            latest.yml
           body: |
             ${{ steps.changelog.outputs.CHANGES }}
 
