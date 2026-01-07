@@ -1,8 +1,8 @@
-version: 1.2.5
+version: 1.2.6
 files:
-  - url: CG-Services-Setup-1.2.5.exe
-    sha512: WCfb8QZ1HcTF/wiDC1zViDp7OoU/DHMZ1ZPVBkeJis71Z14hK0bqoAMI2UZxAnliSfaCHX4cQKflGtaswK3ySA==
-    size: 101659455
-path: CG-Services-Setup-1.2.5.exe
-sha512: WCfb8QZ1HcTF/wiDC1zViDp7OoU/DHMZ1ZPVBkeJis71Z14hK0bqoAMI2UZxAnliSfaCHX4cQKflGtaswK3ySA==
-releaseDate: '2026-01-06T09:58:20.840Z'
+  - url: CG-Services-Setup-1.2.6.exe
+    sha512: jOXyQtHpRRwYzVdR3chPuepU4Gp/RLoPJxjg1osbSFbmMzd9Jgg6G13aYCt5kf7hAXJ0zpZoXTezMCil0WlEbw==
+    size: 101658483
+path: CG-Services-Setup-1.2.6.exe
+sha512: jOXyQtHpRRwYzVdR3chPuepU4Gp/RLoPJxjg1osbSFbmMzd9Jgg6G13aYCt5kf7hAXJ0zpZoXTezMCil0WlEbw==
+releaseDate: '2026-01-07T04:54:39.282Z'
