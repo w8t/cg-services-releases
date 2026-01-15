@@ -1,8 +1,8 @@
-version: 1.2.8
+version: 1.2.9
 files:
-  - url: CG-Services-Setup-1.2.8.exe
-    sha512: ojvD9D3PkBVerrKjHf67NKP1kjrjPdGKs8tOfdKikxssG47GdlPZSmF1cqgf2lPjVZ0o2SGQPL7rW24ycSKiwg==
-    size: 101658001
-path: CG-Services-Setup-1.2.8.exe
-sha512: ojvD9D3PkBVerrKjHf67NKP1kjrjPdGKs8tOfdKikxssG47GdlPZSmF1cqgf2lPjVZ0o2SGQPL7rW24ycSKiwg==
-releaseDate: '2026-01-14T10:17:58.598Z'
+  - url: CG-Services-Setup-1.2.9.exe
+    sha512: rvoqLu/SMZeT34JxF5ZgwY/Y8tP9ozwV/9sXrVMpr45+eMDFrLZvAZrT03ULKgp7Y+OPOb1a13pq79G/HCoqIg==
+    size: 101657762
+path: CG-Services-Setup-1.2.9.exe
+sha512: rvoqLu/SMZeT34JxF5ZgwY/Y8tP9ozwV/9sXrVMpr45+eMDFrLZvAZrT03ULKgp7Y+OPOb1a13pq79G/HCoqIg==
+releaseDate: '2026-01-15T18:00:25.799Z'
